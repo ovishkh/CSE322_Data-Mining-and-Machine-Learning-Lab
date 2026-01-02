@@ -1,0 +1,1 @@
+The Data Mining and Machine Learning Lab (DMML) focuses on innovative research using data mining, machine learning, social computing, and artificial intelligence to solve complex problems. It aims to advance the field through creative applications and methodologies.
